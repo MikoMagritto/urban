@@ -16,7 +16,12 @@ CRUD (create, read, update, delete)
 * CRUD player
 * CRUD team
 
-## Fonctionalities
-* As a player I want to be able to create a new match
+## Basics Fonctionalities
+* As an organisator I want to be able to create a new match
 * As a player I need to list all available matches
 * As a player I want to select a match and validate my participation
+
+
+## Advanced Fonctionalities
+* As an organisator I want to add a "waiting list" wich is a group of 2 or 3 potential player if 
+* As a player I can join the waiting list if the match is full
