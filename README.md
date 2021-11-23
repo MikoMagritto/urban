@@ -1,5 +1,5 @@
-# Urban (open source project)
-Urban is an open source API to organise a football match
+# Urban API
+Urban API is an open source API to organise a football match
 
 ## Specifications
 Organize a football match with two teams of 5 players each
